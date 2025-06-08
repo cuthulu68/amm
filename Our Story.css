@@ -1,0 +1,71 @@
+
+header table {
+  width: 100%;
+}
+
+table {
+  border: 2px solid black;
+  border-radius: 7PX;
+  background-color:#a2d9ce;
+
+}
+
+body {
+  background-color: #ccd1d1;
+}
+
+table tr th a {
+  font-family: Cinzel, georgia, tahoma, verdana;
+  font-size: 2em;
+  color: black;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px
+  }
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family:Cinzel, georgia, tahoma;
+
+
+}
+
+
+a:visited {
+  color:#666666;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+  font-size: 3em;
+  font-family:lobster, georgia, tahoma;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #3b5998;
+	background-color: #BCD2EE;
+  height: auto;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+
+
+		</div>
+
+footer div a {
+
+  font-family: Cinzel, tahoma, verdana;
+  font-size: 1em;
+  color: #3b5998;
+}
