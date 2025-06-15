@@ -32,6 +32,12 @@ p {
   font-family:Cinzel, georgia, tahoma;
 }
 
+ol oi {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family:Cinzel, georgia, tahoma;
+}
+
 
 a:visited {
   color: grey;
