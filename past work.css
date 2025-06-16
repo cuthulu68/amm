@@ -12,11 +12,11 @@ table {
 }
 
 body {
-  background-color: #ccd1d1;
+  background-color: #e0d5d5;
 }
 
 div.gallery {
-  border: 1px solid #ccc;
+  border: 1px solid #0a0a0a;
 }
 
 div.gallery:hover {
