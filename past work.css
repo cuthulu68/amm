@@ -63,6 +63,14 @@ div.desc {
 }
 
 
+span {
+  display: inline-block;
+}
+
+img {
+  width: 50%;
+}
+
 table tr th a {
   font-family: Cinzel, georgia, tahoma, verdana;
   font-size: 2em;
