@@ -16,6 +16,7 @@ body {
 }
 
 div.gallery {
+margin: 5px	
   border: 2px solid black;
  float: left;
   width: 180px;
@@ -26,7 +27,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
 
