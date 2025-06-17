@@ -79,7 +79,10 @@ span {
 }
 
 img {
+  display: block;
+  margin: auto;
   width: 50%;
+	
 }
 
 table tr th a {
