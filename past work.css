@@ -16,7 +16,7 @@ body {
 }
 
 div.gallery {
-  border: 2px solid #ccc;
+  border: 2px solid black;
  float: left;
   width: 180px;
 }
