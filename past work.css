@@ -36,6 +36,8 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+ display: block;
+  margin: auto;
 }
 
 div.desc {
@@ -78,12 +80,6 @@ span {
   display: inline-block;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-	
-}
 
 table tr th a {
   font-family: Cinzel, georgia, tahoma, verdana;
