@@ -65,6 +65,7 @@ div {
 
 div.container {
   text-align: center;
+	width: 10em;
 }
 
 ul.myUL {
