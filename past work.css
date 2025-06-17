@@ -16,7 +16,9 @@ body {
 }
 
 div.gallery {
-  border: 2px solid black;
+  border: 2px solid #ccc;
+ float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
