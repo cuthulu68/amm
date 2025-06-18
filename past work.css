@@ -23,27 +23,24 @@ body {
  }
 
 div.gallery {
-margin: 5px	
-  border: 2px solid #0f0f0f;
- float: left;
-  width: 50%;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
-  border: 2px solid #0f0f0f;
+  border: 1px solid #777;
 }
 
 div.gallery img {
-  width: 50%;
+  width: 100%;
   height: auto;
- display: block;
-  margin: auto;
 }
 
 div.desc {
   padding: 15px;
   text-align: center;
-	width: 50%;
 }
 
 * {
