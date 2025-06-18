@@ -24,13 +24,13 @@ body {
 
 div.gallery {
 margin: 5px	
-  border: 2px solid black;
+  border: 2px solid #0f0f0f;
  float: left;
   width: 50%;
 }
 
 div.gallery:hover {
-  border: 2px solid #777;
+  border: 2px solid #0f0f0f;
 }
 
 div.gallery img {
