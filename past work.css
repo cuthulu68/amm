@@ -47,6 +47,12 @@ div.desc {
   box-sizing: border-box;
 }
 
+.image-container {
+
+  text-align: center;
+
+}
+
 .responsive {
   padding: 0 6px;
   float: left;
