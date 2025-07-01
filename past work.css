@@ -18,7 +18,7 @@ body {
 
 div.gallery {
   margin: 5px;
-  border: 2px solid black;
+  border: 5px solid black;
   float: left;
   width: 180px;
 }
