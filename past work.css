@@ -24,7 +24,7 @@ div.gallery {
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 2px solid #black;
 }
 
 div.gallery img {
