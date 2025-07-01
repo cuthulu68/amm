@@ -15,12 +15,6 @@ body {
   background-color: #e0d5d5;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
- }
 
 div.gallery {
   margin: 5px;
@@ -33,6 +27,12 @@ div.gallery:hover {
   border: 1px solid #777;
 }
 
+div.img {
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
 div.gallery img {
   width: 100%;
   height: auto;
@@ -40,7 +40,7 @@ div.gallery img {
 
 div.desc {
   padding: 15px;
-  text-align: justify;
+  text-align: center;
 	}
 
 * {
