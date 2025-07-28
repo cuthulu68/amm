@@ -1,4 +1,3 @@
-
 header table {
   width: 100%;
 }
@@ -50,14 +49,35 @@ h3 {
   font-family:cinzel, georgia, tahoma;
 }
 
-div {
+/* Fixed gallery styling for proper image centering */
+.gallery {
 	border-radius: 5px;
 	border: 2px solid #3b5998;
 	background-color: #BCD2EE;
   height: auto;
-	width: 120px;
-	margin: auto;
+	width: 300px; /* Increased width to accommodate images better */
+	margin: 20px auto; /* Added top/bottom margin for spacing */
 	text-align: center;
+	padding: 10px; /* Added padding for better spacing */
+	display: block; /* Ensure block display */
+}
+
+/* Center images within gallery containers */
+.gallery img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+	border-radius: 3px;
+}
+
+/* Style the description text */
+.gallery .desc {
+	margin-top: 10px;
+	font-family: Cinzel, georgia, tahoma;
+	font-size: 0.9em;
+	color: #333;
+	padding: 5px;
 }
 
 .center {
@@ -73,3 +93,4 @@ footer div a {
   font-size: 1em;
   color: #3b5998;
 }
+
