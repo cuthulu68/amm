@@ -3,6 +3,12 @@ header table {
   width: 100%;
 }
 
+.poiret-one-regular {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 table {
   border: 2px solid black;
   border-radius: 7PX;
@@ -15,7 +21,7 @@ body {
 }
 
 table tr th a {
-  font-family: Cinzel, georgia, tahoma, verdana;
+  font-family: Poiret One, georgia, tahoma, verdana;
   font-size: 2em;
   color: black;
 }
@@ -30,7 +36,7 @@ img.displayed {
 p {
   margin-left: 10%;
   margin-right: 10%;
-  font-family:Cinzel, georgia, tahoma;
+  font-family:Poiret One, georgia, tahoma;
 }
 
 
@@ -44,7 +50,7 @@ a:hover {
 
 h1 {
   font-size: 3em;
-  font-family:lobster, georgia, tahoma;
+  font-family:Poiret One, georgia, tahoma;
 }
 
 div {
@@ -68,7 +74,8 @@ div {
 
 footer div a {
 
-  font-family: Cinzel, tahoma, verdana;
+  font-family: Poiret One, tahoma, verdana;
   font-size: 1em;
   color: #3b5998;
 }
+
